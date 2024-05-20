@@ -1,0 +1,1 @@
+The earthquake dataset contains information about seismic events, including magnitude, location, depth, and time of occurrence. It serves as a valuable resource for studying and understanding seismic activity, aiding in research, disaster preparedness, and risk assessment.
